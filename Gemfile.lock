@@ -52,8 +52,7 @@ GEM
       ember-source (>= 1.0.0.rc2.2)
       execjs (>= 1.2)
       railties (>= 3.1)
-    ember-source (1.0.0.rc4)
-      handlebars-source (= 1.0.0.rc4)
+    ember-source (3.0.0.beta.2)
     erubis (2.7.0)
     execjs (1.4.0)
       multi_json (~> 1.0)
@@ -157,7 +156,7 @@ DEPENDENCIES
   active_model_serializers (~> 0.8.0)
   coffee-rails (~> 3.2.1)
   ember-rails
-  ember-source (= 1.0.0.rc4)
+  ember-source (= 3.0.0.beta.2)
   handlebars-source (= 1.0.0.rc4)
   jquery-rails
   omniauth
