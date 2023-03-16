@@ -10,7 +10,7 @@ gem 'active_model_serializers', "~> 0.8.0"
 
 gem 'jquery-rails'
 
-gem "twitter-bootstrap-rails", '~> 2.2.6'
+gem "twitter-bootstrap-rails", '~> 3.2.2'
 
 gem 'ember-rails'
 gem 'ember-source', '1.0.0.rc4' # or the version you need
